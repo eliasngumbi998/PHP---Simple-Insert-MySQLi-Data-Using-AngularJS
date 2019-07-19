@@ -7,7 +7,7 @@
 <body ng-controller="myController">
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="<a href="https://sourcecodester.com"" rel="nofollow">https://sourcecodester.com"</a> >Sourcecodester</a>
+			<a class="navbar-brand" href="<a href="https://eliasngumbipro"" rel="nofollow">https://eliasngumbipro.com"</a> >Elias Ngumbi</a>
 		</div>
 	</nav>
 	<div class="col-md-3"></div>
